@@ -22,4 +22,15 @@ entries:
     urls:
     - https://github.com/derekbelrose/helm-charts/releases/download/experiment-1-helml-0.1.4/experiment-1-helml-0.1.4.tgz
     version: 0.1.4
-generated: "2021-10-20T19:45:22.788784793Z"
+  experiment-2-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-20T19:47:33.196489735Z"
+    description: A Helm chart for Kubernetes
+    digest: 74b6c9569e5264bea1f6fe7f6b8a3bcc696f97fc7b10d696a7f5cedd1e47c7a6
+    name: experiment-2-helm
+    type: application
+    urls:
+    - https://github.com/derekbelrose/helm-charts/releases/download/experiment-2-helm-0.1.0/experiment-2-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-20T19:47:33.196496735Z"
