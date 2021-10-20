@@ -1,0 +1,9 @@
+# Default values for aws-efs-pv.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+size: "5Gi"
+
+volumemode: "Filesystem"
+
+reclaimpolicy: "Retain"
