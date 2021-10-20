@@ -1,6 +1,6 @@
 apiVersion: v2
-name: experiment-1-helml
-description: A Helm chart for Kubernetes
+name: experiment-1-helm
+description: A test Kubernetes Helm application chart
 
 # A chart can be either an 'application' or a 'library' chart.
 #
