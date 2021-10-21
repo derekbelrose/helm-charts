@@ -21,6 +21,17 @@ entries:
     urls:
     - https://github.com/derekbelrose/helm-charts/releases/download/aws-efs-pv-0.1.0/aws-efs-pv-0.1.0.tgz
     version: 0.1.0
+  aws-efs-pvc:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-21T14:06:56.878633044Z"
+    description: Create Kubernetes PVC resources from AWS resources using Terraform
+    digest: 6ea35be794c63c4bb31b4122530a3f0260363de2a1ae262c403a5df28c87af63
+    name: aws-efs-pvc
+    type: application
+    urls:
+    - https://github.com/derekbelrose/helm-charts/releases/download/aws-efs-pvc-0.1.0/aws-efs-pvc-0.1.0.tgz
+    version: 0.1.0
   experiment-1-helm:
   - apiVersion: v2
     appVersion: 1.16.0
@@ -54,4 +65,4 @@ entries:
     urls:
     - https://github.com/derekbelrose/helm-charts/releases/download/experiment-2-helm-0.1.0/experiment-2-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-21T02:05:07.375553246Z"
+generated: "2021-10-21T14:06:56.878671346Z"
