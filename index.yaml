@@ -3,6 +3,16 @@ entries:
   aws-efs-pv:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2021-10-21T02:05:07.374536214Z"
+    description: A Helm chart to create EFS backed PersistentVolumes for AWS EKS
+    digest: 06f22ee15910fa77885cb93700fc4c8ae59a778b2b5d889ad5797445aa6dd809
+    name: aws-efs-pv
+    type: application
+    urls:
+    - https://github.com/derekbelrose/helm-charts/releases/download/aws-efs-pv-0.2.0/aws-efs-pv-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2021-10-20T20:24:21.525188804Z"
     description: A Helm chart to create EFS backed PersistentVolumes for AWS EKS
     digest: 3cde23aaf55728ef246d2a7aaa277fb2fa0cf5371655354da67832776a7b240e
@@ -44,4 +54,4 @@ entries:
     urls:
     - https://github.com/derekbelrose/helm-charts/releases/download/experiment-2-helm-0.1.0/experiment-2-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-20T20:24:21.525196004Z"
+generated: "2021-10-21T02:05:07.375553246Z"
